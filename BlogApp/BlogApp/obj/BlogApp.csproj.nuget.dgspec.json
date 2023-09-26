@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andres\\source\\repos\\BlogApp\\BlogApp\\BlogApp.csproj": {}
+    "C:\\Users\\Andres\\Desktop\\Software\\Proyectos Desarrollo\\dotNetProjects\\BlogApp\\BlogApp\\BlogApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andres\\source\\repos\\BlogApp\\BlogApp\\BlogApp.csproj": {
+    "C:\\Users\\Andres\\Desktop\\Software\\Proyectos Desarrollo\\dotNetProjects\\BlogApp\\BlogApp\\BlogApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\BlogApp\\BlogApp\\BlogApp.csproj",
+        "projectUniqueName": "C:\\Users\\Andres\\Desktop\\Software\\Proyectos Desarrollo\\dotNetProjects\\BlogApp\\BlogApp\\BlogApp.csproj",
         "projectName": "BlogApp",
-        "projectPath": "C:\\Users\\Andres\\source\\repos\\BlogApp\\BlogApp\\BlogApp.csproj",
+        "projectPath": "C:\\Users\\Andres\\Desktop\\Software\\Proyectos Desarrollo\\dotNetProjects\\BlogApp\\BlogApp\\BlogApp.csproj",
         "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres\\source\\repos\\BlogApp\\BlogApp\\obj\\",
+        "outputPath": "C:\\Users\\Andres\\Desktop\\Software\\Proyectos Desarrollo\\dotNetProjects\\BlogApp\\BlogApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,6 +66,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[8.4.7, )"
             }
           },
           "imports": [
